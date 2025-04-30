@@ -1,0 +1,42 @@
+export const userProfiles = {
+  admin: {
+    name: "Dr. Michael Chen",
+    role: "System Administrator",
+    email: "michael.chen@university.edu",
+    department: "Information Technology",
+    avatar: "/images/profiles/admin-profile.jpg",
+    bio: "Dr. Chen oversees all technical aspects of the university's admission system, ensuring data security and system reliability.",
+  },
+  staff: {
+    name: "Emily Rodriguez",
+    role: "Admissions Officer",
+    email: "emily.rodriguez@university.edu",
+    department: "Admissions Office",
+    avatar: "/images/profiles/staff-profile.jpg",
+    bio: "Emily has been with the university for 5 years, processing applications and helping students navigate the admissions process.",
+  },
+  chairperson: {
+    name: "Dr. James Wilson",
+    role: "Department Chairperson",
+    email: "james.wilson@university.edu",
+    department: "Computer Science",
+    avatar: "/images/profiles/chairperson-profile.jpg",
+    bio: "Dr. Wilson leads the Computer Science department and oversees curriculum development and faculty recruitment.",
+  },
+  interviewer: {
+    name: "Dr. Sarah Johnson",
+    role: "Faculty Interviewer",
+    email: "sarah.johnson@university.edu",
+    department: "Computer Science",
+    avatar: "/images/profiles/interviewer-profile.jpg",
+    bio: "Dr. Johnson conducts interviews for prospective students and evaluates their technical skills and academic potential.",
+  },
+  applicant: {
+    name: "Alex Thompson",
+    role: "Prospective Student",
+    email: "alex.thompson@email.com",
+    highSchool: "Lincoln High School",
+    avatar: "/images/profiles/applicant-profile.jpg",
+    bio: "Alex is interested in pursuing a degree in Computer Science with a focus on artificial intelligence and machine learning.",
+  },
+}
