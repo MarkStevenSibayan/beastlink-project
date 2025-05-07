@@ -50,7 +50,7 @@ export default function LoginPage() {
               />
             </div>
             <div className="ml-3">
-              <h1 className="text-2xl font-bold text-emerald-800">Beastlink University</h1>
+              <h1 className="text-2xl font-bold text-emerald-800">Beastlinkkkk University</h1>
               <p className="text-sm text-emerald-600">Admission Management System</p>
             </div>
           </div>
